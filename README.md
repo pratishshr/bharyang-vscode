@@ -1,4 +1,4 @@
-# bharyang-vscode
+# <a href='http://github.com/pratishshr/bharyang'><img src='https://raw.githubusercontent.com/pratishshr/bharyang/master/assets/logo.png' height='80'></a> bharyang-vscode
 
 > Reorder your block of lines in a ladder style format.
 
