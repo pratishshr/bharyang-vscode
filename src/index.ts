@@ -1,4 +1,3 @@
-import { sort, sortOrder } from 'sort-o';
 import { window, commands, ExtensionContext, TextEdit } from 'vscode';
 
 import { sortAscending, sortDescending, sortImports } from './extension';

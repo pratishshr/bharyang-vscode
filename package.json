@@ -8,7 +8,7 @@
     "vscode": "^1.18.0"
   },
   "categories": ["Other"],
-  "activationEvents": ["onCommand:extension.sayHello"],
+  "activationEvents": ["*"],
   "main": "./out/index",
   "contributes": {
     "commands": [
