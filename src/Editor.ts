@@ -17,10 +17,20 @@ class Editor {
     this.selection = selection;
   }
 
+  /**
+   * Return editor selection.
+   * 
+   * @returns {string}
+   */
   public getSelection(): string {
     return this.document.getText(this.selection);
   }
 
+  /**
+   * Replace editor selection with the supplied text.
+   * 
+   * @param {string} text 
+   */
   public replace(text: string) {
     this.editor.edit(editBuilder => {
       editBuilder.replace(this.selection, text);
