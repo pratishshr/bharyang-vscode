@@ -4,6 +4,11 @@
 
  **The core functionality has been separated so that it can be used in other editors as well, you can find it [here](https://github.com/pratishshr/bharyang).**
 
+## Installation
+Install through VS Code extensions. Search for `Bharyang`.
+
+[Visual Studio Code Market Place: Bharyang](https://marketplace.visualstudio.com/items?itemName=pratishshr.bharyang-vscode)
+
 ## Usage
 
 ```
