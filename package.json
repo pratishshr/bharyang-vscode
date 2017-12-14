@@ -2,6 +2,7 @@
   "name": "bharyang-vscode",
   "displayName": "bharyang",
   "description": "Reorder lines in a ladder style format.",
+  "icon": "assets/logo.png",  
   "version": "0.0.1",
   "publisher": "pratishshr",
   "engines": {
