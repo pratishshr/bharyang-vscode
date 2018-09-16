@@ -1,5 +1,5 @@
 # <a href='http://github.com/pratishshr/bharyang'><img src='https://raw.githubusercontent.com/pratishshr/bharyang/master/assets/logo.png' height='80'></a> bharyang-vscode
-
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/pratishshr.bharyang-vscode.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=pratishshr.bharyang-vscode)
 > Reorder your block of lines in a ladder style format.
 
  **The core functionality has been separated so that it can be used in other editors as well, you can find it [here](https://github.com/pratishshr/bharyang).**
