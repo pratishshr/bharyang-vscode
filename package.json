@@ -2,7 +2,7 @@
   "name": "bharyang-vscode",
   "displayName": "Bharyang",
   "description": "Reorder lines in a ladder style format.",
-  "icon": "assets/logo.png",  
+  "icon": "assets/logo.png",
   "version": "0.0.3",
   "publisher": "pratishshr",
   "engines": {
@@ -28,6 +28,20 @@
       {
         "command": "extension.groupSortAscByLength",
         "title": "Bharyang: Group Imports"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "extension.sortAscByLength",
+        "key": "ctrl+alt+l"
+      },
+      {
+        "command": "extension.sortDescByLength",
+        "key": "ctrl+alt+shift+l"
+      },
+      {
+        "command": "extension.groupSortAscByLength",
+        "key": "ctrl+alt+g"
       }
     ]
   },
